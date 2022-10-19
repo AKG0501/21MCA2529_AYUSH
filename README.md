@@ -1,10 +1,10 @@
 # 21MCA2529_AYUSH https://github.com/AKG0501/21MCA2529_AYUSH.git
 XenonStack Techinical Assignment
-Design & Develop a website using nodejs/java/go having 3 pages Website,login,signup.
+Design & Develop a website using HTML/CSS/go having 3 pages Website,login,signup.
 
 This full stack website is written in  using Xampp as a detabase 
 
-Api Written in Nodejs and using Sublimetext as database
+Api Written in Xammp and using Sublimetext as database
 Frontend is written in java
 
 
@@ -43,5 +43,5 @@ now navigate to frontend folder and run it using serve package
 
 **Client:** HTML, CSS, JAVASCRIPT.
 
-**Server:** Nodejs, Xammp , SublimeText etc
+**Server:** Xammp , SublimeText etc
 
